@@ -1,10 +1,10 @@
-package com.masterbare.primeiroexemplo;
+package com.masterbare.backendtelefone;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PrimeiroExemploApplicationTests {
+class BackendTelefoneApplicationTests {
 
 	@Test
 	void contextLoads() {

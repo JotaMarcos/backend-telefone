@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.masterbare</groupId>
-	<artifactId>primeiro-exemplo</artifactId>
+	<artifactId>backend-telefone</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>primeiro-exemplo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>backend-telefone</name>
+	<description>API Rest Telefone com Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

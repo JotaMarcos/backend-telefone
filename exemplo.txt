@@ -1,10 +1,10 @@
 Objetivo:
 
-Criar uma API RestFull para controle de produtos
+Criar uma API RestFull para controle de telefones
 
 
 Modelo: OK
-    Produto: id, nome, quantidade, valor, observacao
+    Telefone: id, nomeContato, cidade, estado, ddd, numero
 
 Repository de produto: OK
     obterTodos, obterPorId, adicionar, atualizar, deletar.
